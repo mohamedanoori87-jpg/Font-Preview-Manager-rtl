@@ -8,13 +8,15 @@
 ---
 
 <a id="english"></a>
-## 🇺🇸 English Description
+## English Description
 
 A fast, lightweight, and professional desktop utility built for graphic designers to instantly preview, filter, and temporarily activate external font collections without cluttering the Windows operating system.
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?style=flat-square&logo=windows)
 ![Framework](https://img.shields.io/badge/Framework-.NET%208%20%2F%20WPF-512BD4?style=flat-square&logo=.net)
 ![UI Highlight](https://img.shields.io/badge/Theme-Crimson%20Red-CC0000?style=flat-square)
+
+<img width="1010" height="761" alt="app-preview" src="https://github.com/user-attachments/assets/033a57d7-c8fe-468c-a847-6ecd30f02ce9" />
 
 ### 🌟 Key Features
 * **Bilingual Script Filtering:** Isolate and manage your font libraries flawlessly. Toggle instantly between specialized **Arabic Script** and **Latin Script** views.
@@ -34,7 +36,7 @@ A fast, lightweight, and professional desktop utility built for graphic designer
 ---
 
 <a id="arabic"></a>
-## 🇮🇶 الوصف باللغة العربية (Arabic Description)
+## الوصف باللغة العربية (Arabic Description)
 
 أداة سطح مكتب سريعة، خفيفة الوزن ومحترفة، صُممت خصيصاً لمصممي الجرافيك لمعاينة وفلترة وتفعيل مجموعات الخطوط الخارجية بشكل مؤقت وفوري، دون الحاجة لتثبيتها بشكل دائم وتثقيل نظام التشغيل Windows.
 
