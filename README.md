@@ -22,7 +22,7 @@ A fast, lightweight, and professional desktop utility built for graphic designer
 
 ## 📸 Screenshots
 
-> *Add your application screenshots here! Drag and drop image files directly into your GitHub editor window to display them.*
+<img width="1010" height="761" alt="app-preview" src="https://github.com/user-attachments/assets/9e4ae187-0f5c-424f-a27e-0296028052fb" />
 
 ---
 
